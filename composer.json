@@ -2,7 +2,7 @@
     "name": "pedhot-dev/mc-text-format",
     "description": "Convert Minecraft color to HTML color",
     "type": "library",
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "AgusPedhot",
