@@ -1,0 +1,18 @@
+{
+    "name": "aguspedhot/mc-text-format",
+    "description": "Convert Minecraft color to HTML color",
+    "type": "library",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "AgusPedhot",
+            "email": "wanzgamerz2@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MCTextFormat\\": "src/"
+        }
+    },
+    "require": {}
+}
